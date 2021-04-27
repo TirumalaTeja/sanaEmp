@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": 1,
+    "userId": "H081",
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+    "userId": "H082"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+    "userId": "H083"
+  }
+]
